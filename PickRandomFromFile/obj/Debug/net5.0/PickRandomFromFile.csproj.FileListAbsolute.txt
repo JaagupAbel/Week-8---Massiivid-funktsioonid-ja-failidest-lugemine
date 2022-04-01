@@ -1,0 +1,15 @@
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\PickRandomFromFile\bin\Debug\net5.0\PickRandomFromFile.exe
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\PickRandomFromFile\bin\Debug\net5.0\PickRandomFromFile.deps.json
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\PickRandomFromFile\bin\Debug\net5.0\PickRandomFromFile.runtimeconfig.json
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\PickRandomFromFile\bin\Debug\net5.0\PickRandomFromFile.runtimeconfig.dev.json
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\PickRandomFromFile\bin\Debug\net5.0\PickRandomFromFile.dll
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\PickRandomFromFile\bin\Debug\net5.0\ref\PickRandomFromFile.dll
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\PickRandomFromFile\bin\Debug\net5.0\PickRandomFromFile.pdb
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.AssemblyInfoInputs.cache
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.AssemblyInfo.cs
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.csproj.CoreCompileInputs.cache
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.dll
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\PickRandomFromFile\obj\Debug\net5.0\ref\PickRandomFromFile.dll
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.pdb
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\FunktionsReturnAndArrayFromFile\bin\Debug\net5.0\FunktionsReturnAndArrayFromFile.exe
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\FunktionsReturnAndArrayFromFile\bin\Debug\net5.0\FunktionsReturnAndArrayFromFile.deps.json
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\FunktionsReturnAndArrayFromFile\bin\Debug\net5.0\FunktionsReturnAndArrayFromFile.runtimeconfig.json
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\FunktionsReturnAndArrayFromFile\bin\Debug\net5.0\FunktionsReturnAndArrayFromFile.runtimeconfig.dev.json
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\FunktionsReturnAndArrayFromFile\bin\Debug\net5.0\FunktionsReturnAndArrayFromFile.dll
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\FunktionsReturnAndArrayFromFile\bin\Debug\net5.0\ref\FunktionsReturnAndArrayFromFile.dll
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\FunktionsReturnAndArrayFromFile\bin\Debug\net5.0\FunktionsReturnAndArrayFromFile.pdb
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\FunktionsReturnAndArrayFromFile\obj\Debug\net5.0\FunktionsReturnAndArrayFromFile.csproj.AssemblyReference.cache
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\FunktionsReturnAndArrayFromFile\obj\Debug\net5.0\FunktionsReturnAndArrayFromFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\FunktionsReturnAndArrayFromFile\obj\Debug\net5.0\FunktionsReturnAndArrayFromFile.AssemblyInfoInputs.cache
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\FunktionsReturnAndArrayFromFile\obj\Debug\net5.0\FunktionsReturnAndArrayFromFile.AssemblyInfo.cs
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\FunktionsReturnAndArrayFromFile\obj\Debug\net5.0\FunktionsReturnAndArrayFromFile.csproj.CoreCompileInputs.cache
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\FunktionsReturnAndArrayFromFile\obj\Debug\net5.0\FunktionsReturnAndArrayFromFile.dll
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\FunktionsReturnAndArrayFromFile\obj\Debug\net5.0\ref\FunktionsReturnAndArrayFromFile.dll
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\FunktionsReturnAndArrayFromFile\obj\Debug\net5.0\FunktionsReturnAndArrayFromFile.pdb
+C:\Users\jaagu\source\repos\FunktionsReturnAndArrayFromFile\FunktionsReturnAndArrayFromFile\obj\Debug\net5.0\FunktionsReturnAndArrayFromFile.genruntimeconfig.cache
